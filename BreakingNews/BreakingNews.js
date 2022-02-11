@@ -3,6 +3,11 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css"; 
 import "slick-carousel/slick/slick-theme.css";
 
+//install react-slick package
+//npm install react-slick --save
+//npm install slick-carousel --save
+
+
 function BreakingNews() {
     const settings = {
       dots: true,
