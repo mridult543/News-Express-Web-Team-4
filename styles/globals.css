@@ -19,7 +19,7 @@ a {
 }
 .slides {
   height: 400px;
-  background-color: aqua;
+  background-color: #FFFFFF;
   display: flex;
   flex-direction: rows;
 }
