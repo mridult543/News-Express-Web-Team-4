@@ -14,3 +14,63 @@ a {
 * {
   box-sizing: border-box;
 }
+#container {
+  width: 1440px;
+}
+.slides {
+  height: 400px;
+  background-color: #FFFFFF;
+  display: flex;
+  flex-direction: rows;
+}
+#bnews {
+  position: relative;
+width: 239px;
+height: 37px;
+left: 43px;
+
+font-family: Montserrat;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 37px;
+/* identical to box height */
+
+
+color: #121221;
+}
+.slidecontainer {
+  position: relative;
+width: 1014px;
+height: 382px;
+left: 43px;
+
+border-radius: 20px;
+overflow: hidden;
+}
+.img{
+  position: relative;
+  top: 18px;
+  width: 710px;
+  left: 13px;
+  position: relative;
+  justify-content: center;
+}
+.title {
+  position: relative;
+  width: 300px;
+}
+.btn {
+justify-content: center;
+align-items: center;
+padding: 10px 15px;
+
+position: relative;
+width: 135px;
+height: 50px;
+top: 100px;
+left: 100px;
+color: white;
+background: #195A94;
+border-radius: 8px;
+}
